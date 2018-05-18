@@ -1,6 +1,7 @@
 Heart Attack Prediction
 
 Input Attributes
+
 The training dataset contains 14 attributes. The attributes from 0 to 12 are input to the system and the 13th attribute is the output that ranges from 0 to 4 which is used to train the system. The input to the given system is as follows:
 a.Age: The input is given as the age in a number of years of the patient.
 b.Sex: For female input value is 0, male input value is 1.
